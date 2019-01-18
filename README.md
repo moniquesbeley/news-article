@@ -1,5 +1,6 @@
 Here is a the completed version of the news article site mock up done for an assignment. It has images, lorem ipsum text and basic outline of a news paper. 
-click here to view final project http://htmlpreview.github.io/?https://github.com/moniquesbeley/news-article/blob/master/index.html
+click here to view final project http://htmlpreview.github.io/?https://github.com/moniquesbeley/news-article/blob/master/news-article.html
+
 Getting Started
 Navigate to your htdocs folder (where we will be placing assignments).
 $ cd /applications/mamp/htdocs
