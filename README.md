@@ -1,8 +1,6 @@
-Here is a the completed version of the news article site mock up done for an assignment. It has images, lorem ipsum text and basic outline of a news paper. 
-click here to view final project http://htmlpreview.github.io/?https://github.com/moniquesbeley/news-article/blob/master/news-article.html
+At the start of the coding bootcamp I enrolled in, we were tasked with emulating a basic CSS and HTML news article. Below I will walk you through the steps I took to acchomplish this and also, I have attached a link to view the "finished" product.
 
-Getting Started
-Navigate to your htdocs folder (where we will be placing assignments).
+The first thing I did was navigate to my apporpreiate folder via terminal, 
 $ cd /applications/mamp/htdocs
 Clone the news-article assignment into your htdocs folder with the following command:
 $ git clone https://github.com/SJCCodeTalk/news-article.git
@@ -23,8 +21,5 @@ $ git commit -m "add message here"
 NOTE: "add message here" should be updated to give a description as to what you did, such as, "completed assignment", "updated readme", "made changes to header"
 
 $ git push
-Update the readme file with a description of your project so that future employers or other students know what your objective for this project was.
-
-Please follow the submission guideline for this project.
-
-
+Updated the readme file with a description of your project so that future employers or other students know what your objective for this project was.
+click here to view final project http://htmlpreview.github.io/?https://github.com/moniquesbeley/news-article/blob/master/news-article.html
